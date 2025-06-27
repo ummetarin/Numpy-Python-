@@ -24,3 +24,10 @@ n2.ndim
 #Zeros Numpy
 np.zeros((2,3))  #Using tuple
 np.zeros([2,3])  #Using List
+
+#Ones Array
+np.ones((2,3))
+
+#Identity matrix
+np.eye(3)
+#There will be only one input
