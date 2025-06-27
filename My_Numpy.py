@@ -18,3 +18,9 @@ n2.dtype
 #number of dimention
 n2.ndim
 
+
+#array craetion method
+
+#Zeros Numpy
+np.zeros((2,3))  #Using tuple
+np.zeros([2,3])  #Using List
